@@ -1,6 +1,13 @@
 # ProvothonML
 This repository contains  solution of Problem statement :Reaal time tracking of student's academic progress.
 
+
+![Static Badge](https://img.shields.io/badge/Download-COLAB_FILE-hsl)
+![Static Badge](https://img.shields.io/badge/Download-PPT_FILE-hsl)
+![Static Badge](https://img.shields.io/badge/Download-PBIX_FILE-hsl)
+![Static Badge](https://img.shields.io/badge/Download-CSV_FILE-hsl)
+
+
 **Introduction** :   We know that recent surge of popularity in Artificial Intelligence and Machine Learning  industry is due to the ease of its problem solving methodology. The  Artificial Narrow Intelligence ,the era we are in, has helped the corporate world to solve real world problems .  Healthcare, Education, Finance are other industries which have attained fruitful outcomes by applying AI/ML techniques in day to day problems.
 
 **Problem Statement**: As the project title suggests, we have to track the performance of students  in real time. Effective teachers do not just deliver quality educational opportunities — they also diligently track student progress to measure results. Tracking progress benefits both students and teachers. Students can see how they’re doing in various subjects, and teachers can see which of their teaching approaches are working and where they might need to make adjustments.
